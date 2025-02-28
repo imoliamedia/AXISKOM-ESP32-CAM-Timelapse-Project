@@ -56,8 +56,8 @@
 #define FLASH_LED_PIN 4
 
 // WiFi-instellingen
-const char* ssid = "Orange-dd28d";
-const char* password = "4MY348t4";
+const char* ssid = "JouwWiFiNaam";
+const char* password = "JouwWiFiWachtwoord";
 
 // NTP-server voor synchroniseren van de tijd
 const char* ntpServer = "pool.ntp.org";
@@ -65,7 +65,7 @@ const long gmtOffset_sec = 3600;  // Pas aan naar jouw tijdzone (3600 = GMT+1)
 const int daylightOffset_sec = 3600;  // Zomertijd correctie
 
 // Configuratie-instellingen
-int photoInterval = 15;  // Tijd tussen foto's in minuten (standaard 5)
+int photoInterval = 5;  // Tijd tussen foto's in minuten (standaard 5)
 int dayStartHour = 8;    // Start tijdstip voor foto's (8:00)
 int dayEndHour = 20;     // Eind tijdstip voor foto's (20:00)
 int jpegQuality = 10;    // JPEG kwaliteit (0-63, lagere waarde = hogere kwaliteit)
