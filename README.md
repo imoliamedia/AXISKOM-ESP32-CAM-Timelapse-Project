@@ -117,6 +117,9 @@ Deze modulaire aanpak maakt de code beter onderhoudbaar en makkelijker uit te br
 - Controleer of het IP-adres correct is ingevoerd
 - Zorg ervoor dat beide apparaten op hetzelfde netwerk zitten
 
+## Licentie
+Dit project is gelicenseerd onder de [GPL-3.0 license](LICENSE)
+
 ## Credits
 Dit project is ontwikkeld voor en gedeeld door AXISKOM, een Nederlands kennisplatform voor zelfredzaamheid, prepping en zelfvoorzienend leven.
 
